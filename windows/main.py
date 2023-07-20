@@ -86,7 +86,7 @@ if __name__ == "__main__":
         window.dumpbtn.setEnabled(False)
         window.dumpbtn.setText("Dumping ...")
         window.repaint()
-        os.system(".\\resources\\winpmem.exe mem.raw --treads 4")
+        os.system(".\\resources\\winpmem.exe mem.raw --treads 4 --format raw --volume_format raw")
         os.system("move mem.raw "+filename)
         sumpath=filename+"/mem.raw"
         window.dumpbtn.setText("Genrating CheckSum")
@@ -103,7 +103,7 @@ if __name__ == "__main__":
         window.dumpbtn.setEnabled(False)
         window.dumpbtn.setText("Dumping ...")
         window.repaint()
-        os.system(".\\resources\\winpmem.exe mem.raw --treads 4")
+        os.system(".\\resources\\winpmem.exe mem.raw --treads 4 --format raw --volume_format raw")
         os.system("move mem.raw "+filename)
         sumpath=filename+"/mem.raw"
         window.dumpbtn.setText("Genrating CheckSum")
