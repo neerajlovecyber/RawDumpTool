@@ -1,5 +1,6 @@
 
 # Raw Dump Tool (Memory Dumping Tool)
+Info -  (Need internet to work Due to tamper detection featuer)
 
 <img src="ScreenShots/v5_14.png " width="350" height="150" />
 
