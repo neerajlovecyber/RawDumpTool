@@ -1,6 +1,6 @@
 # Raw Dump Tool (Memory Dumping Tool)
 ```diff
--# Info -  (Need internet to work Due to tamper detection featuer)
+-# Info -  (Need internet to work Due to tamper detection feature)
 
 ```
 <img src="ScreenShots/v5_14.png " width="350" height="150" />
