@@ -1,7 +1,8 @@
-
 # Raw Dump Tool (Memory Dumping Tool)
-Info -  (Need internet to work Due to tamper detection featuer)
+```diff
+-# Info -  (Need internet to work Due to tamper detection featuer)
 
+```
 <img src="ScreenShots/v5_14.png " width="350" height="150" />
 
 This is a Python-based Graphical User Interface (GUI) Memory Dumping Forensics Tool, lovingly crafted by Neeraj Singh. The tool is designed to assist digital forensics investigators in the process of extracting, analyzing, and securing volatile memory (RAM) contents.
@@ -26,7 +27,7 @@ Home Tab           |  Security Tab
 
     (Instructions on how to download/install the tool if it's available on GitHub)
 
-    Clone the repo & Run The exe file.
+    Clone the repo & Run The exe file. (Needs internet to works otherwise it will not run)
 
     Choose the appropriate options for memory dumping, encryption, and decryption as required.
 
