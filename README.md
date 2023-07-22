@@ -7,11 +7,15 @@
 
 This is a Python-based Graphical User Interface (GUI) Memory Dumping Forensics Tool, lovingly crafted by Neeraj Singh. The tool is designed to assist digital forensics investigators in the process of extracting, analyzing, and securing volatile memory (RAM) contents. (have used winpmem and 7z inside it)
 ## Features
+```diff
+@@ Dump File Encryption & Decryption:@@ The tool allows users to dump the volatile memory of a target system and provides the option to encrypt the resulting memory dump file.
+This ensures the sensitive data collected from the target is protected and accessible only to authorized individuals.
 
-    Dump File Encryption & Decryption: The tool allows users to dump the volatile memory of a target system and provides the option to encrypt the resulting memory dump file. This ensures the sensitive data collected from the target is protected and accessible only to authorized individuals.
+@@ Dump File Tamper Detection:@@ Security is paramount in the field of digital forensics.
+The RAM Dump Tool incorporates tamper detection mechanisms to identify any unauthorized alterations to the memory dump file.
+This helps maintain the integrity and authenticity of the collected evidence.
 
-    Dump File Tamper Detection: Security is paramount in the field of digital forensics. The RAM Dump Tool incorporates tamper detection mechanisms to identify any unauthorized alterations to the memory dump file. This helps maintain the integrity and authenticity of the collected evidence.
-    
+```
 ## Youtube Demo
 [<img src="https://i.ytimg.com/vi/IwmSlxSO0xA/maxresdefault.jpg" width="50%">](https://youtu.be/IwmSlxSO0xA "Now in Android: 55")
 
